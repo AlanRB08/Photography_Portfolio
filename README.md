@@ -28,12 +28,12 @@ Fully responsive and accessible
 
 ## 📦 Quick Start
 
-bash
-# Clone and run
-git clone [repo-url]
-cd photography-portfolio
-npm install
-npm run dev
+bash  
+# Clone and run  
+git clone [repo-url]  
+cd photography-portfolio  
+npm install  
+npm run dev  
 
 ---
 
