@@ -1,0 +1,23 @@
+@import url('https://fonts.googleapis.com/css2?family=Cormorant:ital,wght@0,300..700;1,300..700&family=DM+Sans:ital,opsz,wght@0,9..40,100..1000;1,9..40,100..1000&display=swap');
+
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    
+  }
+/* Añade esto a tu archivo CSS */
+
+body{
+    background-color: white;
+}
+img, div {
+  border: none;
+  outline: none;
+}
+.custom-object-position {
+  object-position: 75% 28%;
+}
