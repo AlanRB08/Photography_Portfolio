@@ -39,12 +39,12 @@ npm run dev
 
 ## 🔧 Development Scripts
 
-bash
-npm run dev      # Start dev server (localhost:5173)
-npm run build    # Production build
-npm run preview  # Preview production build
-npm run lint     # Run ESLint
-npm run type-check # TypeScript type checking
+bash  
+npm run dev      # Start dev server (localhost:5173)  
+npm run build    # Production build  
+npm run preview  # Preview production build  
+npm run lint     # Run ESLint  
+npm run type-check # TypeScript type checking  
 
 ---
 
