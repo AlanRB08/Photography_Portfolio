@@ -17,11 +17,11 @@ Fully responsive and accessible
 
 ## 🛠️ Modern Tech Stack
 
--Frontend: React 18 with Hooks + TypeScript
--Build Tool: Vite (ultra fast development)
--Styling: Tailwind CSS + CSS Modules
--Animations: GSAP
--Routing: React Router DOM
+-Frontend: React 18 with Hooks + TypeScript  
+-Build Tool: Vite (ultra fast development)  
+-Styling: Tailwind CSS + CSS Modules  
+-Animations: GSAP  
+-Routing: React Router DOM  
 -Deployment: Vercel/Netlify
 
 ---
